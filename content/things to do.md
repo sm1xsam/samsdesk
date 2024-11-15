@@ -1,0 +1,2 @@
+- physical zine of train stations
+	- start with argyle line 
